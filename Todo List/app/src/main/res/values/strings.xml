@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To-doList</string>
+    <string name="check">CHECKED</string>
+    <string name="uncheck">CHECK</string>
+</resources>

@@ -1,0 +1,4 @@
+#Sun Oct 15 19:36:05 IST 2017
+base.0=F\:\\To-doList-20171015T132412Z-001\\To-doList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\To-doList-20171015T132412Z-001\\To-doList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
